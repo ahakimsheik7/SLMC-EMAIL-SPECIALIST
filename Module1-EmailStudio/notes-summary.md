@@ -1,44 +1,29 @@
 # 📄 Module 1 – Email Studio
 
-## 🧱 Unit: Build a Reusable Email Template  
-**Source:** Trailhead Simulator (Marketing Cloud Engagement)  
-**Scenario:** Northern Trail Outfitters (NTO)
+## 🧭 Section: Overview – What Is Email Studio?
+
+Email Studio is a core product within Salesforce Marketing Cloud (SFMC) that enables users to create, personalize, send, and track targeted email campaigns at scale. It supports dynamic content, reusable templates, and subscriber personalization, all within a centralized interface.
 
 ---
 
-### 🧭 Goal:
-Create a reusable, brand-consistent email template and use it to send a Welcome email to a customer list.
+### 🔧 Key Features of Email Studio:
+
+- **Content Builder**  
+  A drag-and-drop interface used to build and manage email content. Users can add text blocks, images, buttons, and AMPscript for personalization.
+
+- **Templates**  
+  Pre-built and reusable layouts that enforce brand consistency. Templates can include locked blocks to restrict edits to branded sections like logos or headers.
+
+- **Personalization**  
+  Leverages subscriber data and AMPscript to dynamically tailor emails (e.g., using `%%FirstName%%`).
+
+- **Testing & Preview**  
+  Allows users to preview how emails will render across devices and clients, and set up A/B testing for subject lines or content variations.
 
 ---
 
-### ✅ Key Takeaways:
+### 🎯 Why It Matters:
 
-- Reusable templates ensure brand consistency across emails.
-- Built using **Content Builder** with drag-and-drop functionality.
-- Locked content blocks protect critical brand elements (e.g., logos).
-- The Trailhead Simulator provides a guided practice environment:
-  - Mistakes are corrected with visual click cues.
-  - No real data is saved or altered.
-- Final steps include customizing content and sending it to a subscriber list.
+Mastering Email Studio is essential for delivering branded, data-driven, and high-performing emails. It’s also a critical skill area for passing the Salesforce Marketing Cloud Email Specialist certification.
 
 ---
-
-### 🧰 Tools Used:
-- **Content Builder** – For creating templates and managing email content.
-- **Locked Blocks** – To safeguard branding elements (e.g., logos).
-- **Trailhead Simulator** – A browser-based hands-on SFMC training tool.
-
----
-
-### 💡 Learning Outcomes:
-- Created and saved a reusable email template.
-- Locked a logo content block to protect branding.
-- Customized and sent a Welcome email using the template.
-- Practiced within a safe, simulated SFMC interface.
-
----
-
-### 📎 Notes:
-- Screenshots of the simulator steps are saved in the `/screenshots/` folder.
-- This exercise aligns with real-world workflows and supports SFMC certification objectives.
-
